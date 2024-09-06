@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "ymknlogo-prop")(type "KiCad")(uri "${KIPRJMOD}/ymknlogo-prop")(options "")(descr ""))
+  (lib (name "ymknlogo")(type "KiCad")(uri "C:/Users/ymkn/Documents/KiCad/7.0/projects/ymknlogo")(options "")(descr ""))
 )
